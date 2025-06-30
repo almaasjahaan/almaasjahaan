@@ -17,10 +17,11 @@
 Python,Java,HTML,CSS,C
 
 ## 🌐 Socials:
-[LinkedIn](https://linkedin.com/in/Almaas jahaan M) email
+[LinkedIn](https://linkedin.com/in/Almaas jahaan M) 
 
 ## 💻 Tech Stack:
-HTML5 Java Python C CSS3 Pandas Matplotlib scikit-learn NumPy Figma
+![image](https://github.com/user-attachments/assets/ab36c3a3-13e3-4538-831e-e9c7fa7d8e96)
+
 
 ## 📊 GitHub Stats:
 ![image](https://github.com/user-attachments/assets/932b583c-14af-4f3f-9eca-eccf1193299a)
