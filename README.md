@@ -3,7 +3,7 @@
 🌱 I’m currently pursuing my degree BTech AIDS(Artificial Intelligence and Data science) in Saveetha Engineering college.
 🌱 I'm currently learning Python, Java, HTML, CSS.
 
-## - 🔭 I’m working on cool frontend projects
+## - 🔭 I’m working on cool frontend projects and sharpening my skills in full stack development.
 
 ## -🛠️ Languages and Tools
 Python,Java,HTML,CSS,C
